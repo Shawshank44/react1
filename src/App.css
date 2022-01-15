@@ -1,0 +1,23 @@
+
+#nav{
+  height: 100px;
+  display: flex;
+  background-color: purple;
+}
+#nav h1{
+  color: whitesmoke;
+  margin: 35px;
+}
+
+#nav ul{
+  display: flex;
+}
+#nav ul li {
+  margin: 25px;
+  list-style: none;
+}
+#nav ul li a{
+  text-decoration: none;
+  color: white;
+
+}
